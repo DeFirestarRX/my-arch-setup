@@ -2,3 +2,4 @@ pipewire-audio
 pipewire-pulse
 pipewire-alsa
 cmatrix
+modrinth-app
