@@ -3,3 +3,4 @@ pipes.sh
 cbonsai
 vesktop
 peaclock
+librewolf-bin
